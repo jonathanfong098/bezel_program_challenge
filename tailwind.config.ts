@@ -24,6 +24,24 @@ export default {
           950: 'rgb(var(--tw-color-primary-950) / <alpha-value>)',
         },
         dark: '#222222',
+        grey: {
+          50: '#ebe9e6',
+          100: '#ACB5B1',
+          200: '#A2A5A2',
+          300: '#F6F4F1',
+          400: '#f6f4f1',
+        },
+        green: {
+          100: '#328974',
+          500: '#466059',
+          800: '#1a3a32',
+        },
+      },
+      borderRadius: {
+        '4xl': '3rem',
+      },
+      letterSpacing: {
+        normal: '0.075rem',
       },
       keyframes: {
         flicker: {
